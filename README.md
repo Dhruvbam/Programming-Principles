@@ -61,10 +61,14 @@ This repository contains 10 lab projects completed as part of the **CS1412: Prog
     ./Lab1
     ```
 
-## Learning Outcomes
-By completing these labs, students gain practical experience in:
-- Writing clean and efficient C code.
-- Handling basic and advanced data structures like arrays, structs, and linked lists.
-- Implementing algorithms for real-world problems.
-- Working with file handling, dynamic memory allocation, and performing mathematical computations.
+### Learning Outcomes
+By completing these labs, I gained practical experience in key areas of C programming:
+
+- **Clean & Efficient C Code**: Developed the ability to write well-structured and efficient C code for various applications.
+- **Data Structures**: Worked with basic and advanced data structures, including **arrays**, **structs**, and **linked lists**, applying them to solve complex problems.
+- **Algorithm Implementation**: Implemented algorithms for real-world problems, enhancing my problem-solving skills and understanding of computational efficiency.
+- **File Handling & Memory Management**: Gained hands-on experience with **file handling**, **dynamic memory allocation**, and performing **mathematical computations** in C.
+
+These labs solidified my understanding of core programming concepts and strengthened my ability to solve practical coding challenges.
+
 
