@@ -46,6 +46,9 @@ This repository contains 10 lab projects completed as part of the **CS1412: Prog
     - **Topic:** Structs, File Handling, and Conditional Logic
     - **Description:** Manages inventory data using file handling and structs to check if items need restocking.
 
+### Built With
+- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="36" height="36" alt="C Programming" /></a> **C**: The core programming language used for all lab assignments.
+
 ## How to Use
 1. Clone the repository:
     ```bash
