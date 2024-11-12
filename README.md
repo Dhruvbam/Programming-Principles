@@ -2,49 +2,51 @@
 ![image](https://github.com/Dhruvbam/Programming-Principles/blob/main/Images/ss.jpg)
 
 ## About
-This repository contains 10 lab projects completed as part of the **CS1412: Programming Principles** course at Texas Tech University. Each lab focuses on a different foundational concept in C programming, covering topics such as arithmetic operations, string manipulation, file handling, dynamic memory allocation, and data structures like arrays, structs, and linked lists.
+This repository showcases 10 lab projects from the **CS1412: Programming Principles** course at Texas Tech University. Each lab targets a core concept in C programming, offering hands-on practice with essential topics like arithmetic operations, string manipulation, file handling, dynamic memory management, and data structures including arrays, structs, and linked lists. Through these projects, I developed a solid grounding in the principles of C programming, enhancing my ability to write efficient, organized, and reliable code.
+
 
 ## Labs Overview
 
 1. **Lab 1: Tip Calculator**
    - **Topic:** Basic Input/Output and Arithmetic Operations
-   - **Description:** Implements a program to calculate the tip per person and total bill per person based on user input.
+   - **Description:** Develops a practical tool to calculate tips and total bill amounts per person, showcasing skills in handling user inputs and performing arithmetic operations.
 
 2. **Lab 2: Orbital Speed Calculation**
    - **Topic:** Mathematical Computations and Functions
-   - **Description:** Calculates the orbital speed of a satellite using functions for mathematical operations.
+   - **Description:** Computes the orbital speed of a satellite given its altitude, highlighting proficiency in mathematical computations and function-based programming.
 
 3. **Lab 3: Prime Numbers and String Manipulation**
    - **Topic:** Loops, Prime Number Calculation, and String Operations
-   - **Description:** Focuses on prime number calculation and string manipulation through functions.
+   - **Description:** Features functions to calculate prime numbers up to a specified limit and to reverse a string, demonstrating mastery of loops and foundational string operations.
 
-4. **Lab 4: Matrix Transposition**
+4. **Lab 4: Unique Array Elements**
+   - **Topic:** Arrays and Element Uniqueness
+   - **Description:** Identifies and displays unique elements in an array, illustrating skills in array handling and efficient data processing.
+
+5. **Lab 5: String Character Analysis**
+   - **Topic:** String Manipulation and Character Counting
+   - **Description:** Analyzes strings to count occurrences of uppercase letters, lowercase letters, vowels, and digits, highlighting attention to detail and understanding of character data types.
+
+6. **Lab 6: Palindrome Checker**
+   - **Topic:** Recursion and String Manipulation
+   - **Description:** Implements a recursive approach to determine if a string is a palindrome, showcasing recursive problem-solving techniques and string manipulation.
+
+7. **Lab 7: Bacterial Data Search**
+   - **Topic:** File Handling and Data Search
+   - **Description:** Reads bacterial data from an external file and allows users to search for specific triplet combinations, demonstrating skills in file I/O and structured data search.
+
+8. **Lab 8: Basic String Encryption and Decryption**
+   - **Topic:** String Manipulation and Basic Encryption
+   - **Description:** Provides basic encryption and decryption functionalities by shifting character values, illustrating introductory concepts in data encryption and secure string handling.
+
+9. **Lab 9: Matrix Transposition**
    - **Topic:** Arrays and Matrix Operations
-   - **Description:** Transposes a given matrix using nested loops and two-dimensional arrays.
-
-5. **Lab 5: Encryption and Decryption**
-   - **Topic:** String Manipulation and Character Operations
-   - **Description:** Encrypts and decrypts strings by manipulating the ASCII values of characters.
-
-6. **Lab 6: Employee Management System**
-   - **Topic:** Structs and File Handling
-   - **Description:** A system to manage employee records with functions to add, delete, and modify records stored in a file.
-
-7. **Lab 7: Complex Number Arithmetic**
-   - **Topic:** Structs and Operator Overloading
-   - **Description:** Performs arithmetic operations on complex numbers using C structs.
-
-8. **Lab 8: Student Record Management**
-   - **Topic:** Structs, File Handling, and Dynamic Memory Allocation
-   - **Description:** Manages student records by utilizing dynamic memory allocation, structs, and file handling.
-
-9. **Lab 9: Polynomial Arithmetic**
-   - **Topic:** Linked Lists and Dynamic Data Structures
-   - **Description:** Uses linked lists to perform arithmetic operations on polynomials.
+   - **Description:** Transposes a matrix by switching rows and columns, demonstrating practical use of two-dimensional arrays and matrix manipulation.
 
 10. **Lab 10: Inventory Management System**
     - **Topic:** Structs, File Handling, and Conditional Logic
-    - **Description:** Manages inventory data using file handling and structs to check if items need restocking.
+    - **Description:** Reads and processes inventory data from a file to identify items requiring restocking, showcasing struct-based data organization and conditional decision-making.
+
 
 ### Built With
 - <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="36" height="36" alt="C Programming" /></a> **C**: The core programming language used for all lab assignments.
@@ -62,13 +64,13 @@ This repository contains 10 lab projects completed as part of the **CS1412: Prog
     ```
 
 ### Learning Outcomes
-By completing these labs, I gained practical experience in key areas of C programming:
+Completing these labs provided me with hands-on experience in fundamental and advanced aspects of C programming, strengthening my skills in areas critical to software development:
 
-- **Clean & Efficient C Code**: Developed the ability to write well-structured and efficient C code for various applications.
-- **Data Structures**: Worked with basic and advanced data structures, including **arrays**, **structs**, and **linked lists**, applying them to solve complex problems.
-- **Algorithm Implementation**: Implemented algorithms for real-world problems, enhancing my problem-solving skills and understanding of computational efficiency.
-- **File Handling & Memory Management**: Gained hands-on experience with **file handling**, **dynamic memory allocation**, and performing **mathematical computations** in C.
+- **Writing Clean & Efficient Code**: Gained proficiency in writing well-structured and optimized C code, adhering to best practices for readability and performance in various applications.
+- **Mastering Data Structures**: Developed a solid understanding of both foundational and complex data structures, including **arrays**, **structs**, and **linked lists**, and applied them effectively to solve multifaceted problems.
+- **Algorithm Development & Problem Solving**: Built and implemented algorithms tailored to real-world scenarios, honing my problem-solving abilities and deepening my understanding of computational efficiency and algorithmic thinking.
+- **File Handling & Memory Management**: Acquired practical experience in **file handling** and **dynamic memory allocation** for efficient data processing and manipulation, with a strong focus on managing memory safely and effectively.
+- **Mathematical Computations & Logical Reasoning**: Enhanced my skills in performing complex mathematical operations and applying logical reasoning within code, preparing me for future challenges that require precision and accuracy.
 
-These labs solidified my understanding of core programming concepts and strengthened my ability to solve practical coding challenges.
-
+These projects solidified my understanding of core programming concepts and equipped me with the practical skills necessary to tackle real-world coding challenges, laying a strong foundation for further development in software engineering and related fields.
 
