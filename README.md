@@ -1,8 +1,7 @@
 # Programming Principles
 ![image](https://github.com/Dhruvbam/Programming-Principles/blob/main/Images/ss.jpg)
 
-## About
-This repository showcases 10 lab projects from the **CS1412: Programming Principles** course at Texas Tech University. Each lab targets a core concept in C programming, offering hands-on practice with essential topics like arithmetic operations, string manipulation, file handling, dynamic memory management, and data structures including arrays, structs, and linked lists. Through these projects, I developed a solid grounding in the principles of C programming, enhancing my ability to write efficient, organized, and reliable code.
+Collection of programming lab projects from my Programming Principles (CS 1412) class, where I developed hands-on expertise in C through assignments on arithmetic operations, string manipulation, file handling, memory management, and data structures. Solved practical coding problems using arrays, structs, and linked lists, while building skills in algorithm development, clean code practices, and application of logic to real-life scenarios, laying the groundwork for advanced software development.
 
 
 ## Labs Overview
