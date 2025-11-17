@@ -1,7 +1,7 @@
 # Programming Principles
 ![image](https://github.com/Dhruvbam/Programming-Principles/blob/main/Images/ss.jpg)
 
-Collection of programming lab projects from my Programming Principles (CS 1412) class, where I developed hands-on expertise in C through assignments on arithmetic operations, string manipulation, file handling, memory management, and data structures. Solved practical coding problems using arrays, structs, and linked lists, while building skills in algorithm development, clean code practices, and application of logic to real-life scenarios, laying the groundwork for advanced software development.
+Collection of programming lab projects from my Programming Principles class, where I developed hands-on expertise in C through assignments on arithmetic operations, string manipulation, file handling, memory management, and data structures. Solved practical coding problems using arrays, structs, and linked lists, while building skills in algorithm development, clean code practices, and application of logic to real-life scenarios, laying the groundwork for advanced software development.
 
 
 ## Labs Overview
